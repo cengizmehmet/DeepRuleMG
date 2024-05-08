@@ -4,7 +4,7 @@ Microgrids (MGs) have evolved as critical components of modern energy distributi
 
 ## Cite Us
 
-This work was first published in MDPI Energies ([https://www.mdpi.com/1996-1073/17/10/2260](https://www.mdpi.com/1996-1073/17/10/2260)). If you use our data or preprocessing scripts, please cite the following [bibkey](CITE.md):
+This work was first published in MDPI Energies ([https://www.mdpi.com/1996-1073/17/10/2260](https://www.mdpi.com/1996-1073/17/10/2260)). If you use our data or models scripts, please cite the following [bibkey](CITE.md):
 
       @Article{en17102260,
         AUTHOR = {Akbulut, Osman and Cavus, Muhammed and Cengiz, Mehmet and Allahham, Adib and Giaouris, Damian and Forshaw, Matthew},
